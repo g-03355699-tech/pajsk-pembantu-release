@@ -38,6 +38,11 @@ Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan 
 
 ## 📝 Changelog
 
+### v1.3.0 — 3 Nov 2026
+- Tab **Ekstra Kurikulum** lengkap: **Anugerah Khas** (termasuk Emas/Perak/Gangsa Anugerah Remaja Perdana), **Khidmat Masyarakat**, **Program NILAM** dan **TIMSS/PISA**.
+- Tetapan → Nilai lalai kini ada tab **Ekstra Kurikulum**.
+- Lajur baharu dalam fail: `Anugerah Khas`, `Khidmat Masyarakat` (cth. `KEJIRANAN:2; ALAM SEKITAR:1`), `NILAM` (1–5), `TIMSS PISA`.
+
 ### v1.2.0 — 3 Nov 2026
 - Sokongan tab **Ekstra Kurikulum**: lajur *Jawatan Khas* dalam fail (Pengawas, AJK Kelas, PRS, J/K Pusat Media dll.) diisi ke dropdown **Perkhidmatan**.
 - Suis DITAKSIR Ekstra dimatikan bagi murid yang tiada jawatan khas.

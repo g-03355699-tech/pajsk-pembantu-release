@@ -1,9 +1,9 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "date": "2026-11-03",
   "notes": [
-    "Sokongan tab Ekstra Kurikulum — Jawatan Khas diisi ke dropdown Perkhidmatan",
-    "Semak data dan Eksport CSV merangkumi Ekstra Kurikulum"
+    "Tab Ekstra Kurikulum lengkap: Anugerah Khas, Khidmat Masyarakat, Program NILAM, TIMSS/PISA",
+    "Nilai lalai Ekstra Kurikulum dalam Tetapan"
   ],
   "zip": "https://github.com/g-03355699-tech/pajsk-pembantu-release/raw/main/pajsk-pembantu.zip"
 }
