@@ -1,0 +1,48 @@
+# PAJSK Pembantu — Muat Turun
+
+Chrome extension untuk membantu guru mengisi **PAJSK** dalam SPPB (moeissppb.moe.gov.my): isi automatik dari Excel/CSV, isi pukal satu kelas, eksport CSV dan semakan data murid yang belum lengkap.
+
+## ⬇️ [Muat turun versi terkini (zip)](https://github.com/g-03355699-tech/pajsk-pembantu-release/raw/main/pajsk-pembantu.zip)
+
+Versi semasa: lihat [`latest.json`](latest.json). Versi lama ada dalam folder [`versi/`](versi/).
+
+## Pemasangan kali pertama
+1. Muat turun zip di atas dan unzip ke satu folder tetap (cth. `Documents\pajsk-pembantu`).
+2. Chrome → `chrome://extensions` → hidupkan **Developer mode**.
+3. **Load unpacked** → pilih folder `pajsk-pembantu`.
+4. Pin ikon **PAJSK Pembantu** pada toolbar.
+5. Jika halaman SPPB sudah terbuka, tekan **F5** supaya butang hijau **PAJSK** muncul.
+
+## Cara guna (ringkas)
+1. Ikon → **Import data & tetapan** → pilih fail Excel (cth. eksport *table2excel*). Murid dipadankan ikut No. KP.
+2. Tetapkan **nilai lalai** setiap komponen: Jawatan (cth. `AHLI AKTIF`), Pelibatan, Komitmen (maks. 4), Khidmat, Kehadiran.
+3. SPPB → Keputusan → PAJSK → kelas → buka seorang murid → butang **PAJSK** → **✎ Isi borang** → semak → Simpan.
+4. Tetapan bahagian 3: sahkan padanan nama aktiviti (fail ↔ SPPB).
+5. Halaman Senarai Murid → **▶ Mula isi pukal**.
+6. **🔍 Semak data** dan **⬇ Eksport CSV** pada halaman Senarai Murid.
+
+## Kemas kini
+Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan lencana **NEW** dan notis kuning muncul dalam popup dan panel PAJSK.
+1. Klik **Muat turun versi baharu**.
+2. Unzip dan **gantikan fail dalam folder yang sama** (data dan tetapan anda kekal).
+3. `chrome://extensions` → tekan ↻ **Reload** pada PAJSK Pembantu.
+4. Tekan F5 pada halaman SPPB.
+
+> Sentiasa semak borang sebelum menyimpan, terutamanya kali pertama. Semua data murid diproses dan disimpan dalam pelayar anda sahaja — tiada data dihantar ke pelayan lain.
+
+## 📞 Hubungi
+- **Cikgu Ibrahim bin Kadri** — SM Sains Kuala Selangor
+- WhatsApp: [019-300 2591](https://wa.me/60193002591?text=Salam%20Cikgu%20Ibrahim%2C%20berkenaan%20PAJSK%20Pembantu.)
+- Emel: [ibrahim.kadri@kusess.edu.my](mailto:ibrahim.kadri@kusess.edu.my?subject=PAJSK%20Pembantu)
+
+## 📝 Changelog
+
+### v1.1.0 — 3 Nov 2026
+- **Semakan kemas kini automatik**: lencana NEW pada ikon, notis versi baharu dalam popup dan panel PAJSK, pautan "Semak kemas kini".
+
+### v1.0.1 — 3 Nov 2026
+- Popup memaklumkan jika halaman SPPB perlu dimuat semula (F5).
+- Contoh jawatan ditukar kepada AHLI AKTIF.
+
+### v1.0.0 — 3 Nov 2026
+- Keluaran pertama: isi automatik dari Excel/CSV, isi pukal satu kelas, eksport CSV, semakan data, padanan nama aktiviti dan peta manual.
