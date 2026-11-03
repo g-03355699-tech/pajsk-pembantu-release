@@ -38,6 +38,9 @@ Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan 
 
 ## 📝 Changelog
 
+### v1.8.3 — 3 Nov 2026
+- Tab yang murid **tiada aktiviti**: suis **DITAKSIR kini dimatikan** dan tab itu disimpan. Jika SPPB menolak simpanan tersebut, ia hanya dicatat dalam log — automasi diteruskan ke tab/murid seterusnya tanpa jeda.
+
 ### v1.8.2 — 3 Nov 2026
 - **Betulkan:** automasi berhenti pada tab yang tiada aktiviti (cth. murid tanpa Badan Beruniform). Tab sebegini kini **dibiarkan dan tidak disimpan** — sebelum ini extension cuba menyimpannya dan SPPB menolak kerana Jawatan kosong (*"Medan ini Wajib"*).
 - Pengesanan simpanan lebih tepat: dialog *Berjaya!* diutamakan; jika SPPB menolak borang, ia dikesan dalam beberapa saat (bukan 20 saat).
