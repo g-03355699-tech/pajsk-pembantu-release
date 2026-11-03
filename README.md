@@ -38,6 +38,12 @@ Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan 
 
 ## 📝 Changelog
 
+### v1.8.2 — 3 Nov 2026
+- **Betulkan:** automasi berhenti pada tab yang tiada aktiviti (cth. murid tanpa Badan Beruniform). Tab sebegini kini **dibiarkan dan tidak disimpan** — sebelum ini extension cuba menyimpannya dan SPPB menolak kerana Jawatan kosong (*"Medan ini Wajib"*).
+- Pengesanan simpanan lebih tepat: dialog *Berjaya!* diutamakan; jika SPPB menolak borang, ia dikesan dalam beberapa saat (bukan 20 saat).
+- Dialog SPPB ditutup sebelum extension menjeda, supaya skrin tidak terhalang.
+- Pilihan *Jeda pada setiap tab* kini tidak ditanda secara lalai.
+
 ### v1.8.1 — 3 Nov 2026
 - **Betulkan:** *Isi & simpan murid ini dan seterusnya* tersekat selepas murid pertama. Apabila butang *Seterusnya* ditekan, SPPB memaparkan dialog **"Amaran — … Klik OK sekiranya anda pasti untuk berganti murid"**; extension kini menekan **OK** secara automatik (semua tab sudah disimpan sebelum itu).
 

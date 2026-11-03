@@ -1,8 +1,9 @@
 {
-  "version": "1.8.1",
+  "version": "1.8.2",
   "date": "2026-11-03",
   "notes": [
-    "Betulkan: isi automatik tersekat selepas murid pertama (dialog Amaran berganti murid kini ditekan OK)"
+    "Betulkan: automasi tersekat pada tab tanpa aktiviti — tab itu kini dibiarkan",
+    "Pengesanan simpanan lebih tepat; dialog ditutup sebelum jeda"
   ],
   "zip": "https://github.com/g-03355699-tech/pajsk-pembantu-release/raw/main/pajsk-pembantu.zip"
 }
