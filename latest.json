@@ -1,10 +1,10 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "date": "2026-11-03",
   "notes": [
-    "Dropdown Perkhidmatan dan TIMSS/PISA dalam tetapan Ekstra Kurikulum",
-    "Dropdown Jawatan dalam nilai lalai (termasuk jawatan Badan Beruniform)",
-    "Padanan Jawatan Khas ke kategori Perkhidmatan SPPB"
+    "Betulkan: Jawatan tidak diisi (senarai lambat dimuatkan oleh SPPB)",
+    "Jawatan sandaran, cth. AHLI AKTIF → AHLI BIASA",
+    "Eksport / import tetapan sebagai fail .json"
   ],
   "zip": "https://github.com/g-03355699-tech/pajsk-pembantu-release/raw/main/pajsk-pembantu.zip"
 }

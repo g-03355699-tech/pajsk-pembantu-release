@@ -38,6 +38,11 @@ Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan 
 
 ## 📝 Changelog
 
+### v1.5.0 — 3 Nov 2026
+- **Betulkan:** Jawatan kadang-kadang tidak diisi (terutama Badan Beruniform) kerana senarai jawatan lambat dimuatkan oleh SPPB selepas aktiviti dipilih. Extension kini menunggu dan cuba semula; jika jawatan tetap gagal, ia dikira ralat dan borang **tidak** disimpan.
+- **Jawatan sandaran** dalam nilai lalai: cth. AHLI AKTIF, jika tiada dalam senarai aktiviti itu → AHLI BIASA.
+- **Eksport / import tetapan** (Tetapan → bahagian 5): simpan atau kongsi nilai lalai, peta padanan dan tetapan sebagai fail .json. Data murid hanya disertakan jika ditanda.
+
 ### v1.4.0 — 3 Nov 2026
 - Tetapan → Ekstra Kurikulum: dropdown **Perkhidmatan** lalai dan dropdown **TIMSS dan PISA**.
 - Padanan Jawatan Khas → kategori Perkhidmatan SPPB (cth. *Pengawas Biasa* → *PENGAWAS/PENGAWAS PUSAT SUMBER/…\|7*); kategori yang tidak pasti boleh dipilih dalam bahagian 3 Tetapan.
