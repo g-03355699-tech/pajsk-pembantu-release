@@ -15,11 +15,12 @@ Versi semasa: lihat [`latest.json`](latest.json). Versi lama ada dalam folder [`
 
 ## Cara guna (ringkas)
 1. Ikon → **Import data & tetapan** → pilih fail Excel (cth. eksport *table2excel*). Murid dipadankan ikut No. KP.
-2. Tetapkan **nilai lalai** setiap komponen: Jawatan (cth. `AHLI AKTIF`), Pelibatan, Komitmen (maks. 4), Khidmat, Kehadiran.
-3. SPPB → Keputusan → PAJSK → kelas → buka seorang murid → butang **PAJSK** → **✎ Isi borang** → semak → Simpan.
-4. Tetapan bahagian 3: sahkan padanan nama aktiviti (fail ↔ SPPB).
-5. Halaman Senarai Murid → **▶ Mula isi pukal**.
-6. **🔍 Semak data** dan **⬇ Eksport CSV** pada halaman Senarai Murid.
+2. Pastikan fail ada lajur **Jawatan Khas** jika mahu tab Ekstra Kurikulum diisi.
+3. Tetapkan **nilai lalai** setiap komponen: Jawatan (cth. `AHLI AKTIF`), Pelibatan, Komitmen (maks. 4), Khidmat, Kehadiran.
+4. SPPB → Keputusan → PAJSK → kelas → buka seorang murid → butang **PAJSK** → **✎ Isi borang** → semak → Simpan.
+5. Tetapan bahagian 3: sahkan padanan nama aktiviti (fail ↔ SPPB).
+6. Halaman Senarai Murid → **▶ Mula isi pukal**.
+7. **🔍 Semak data** dan **⬇ Eksport CSV** pada halaman Senarai Murid.
 
 ## Kemas kini
 Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan lencana **NEW** dan notis kuning muncul dalam popup dan panel PAJSK.
@@ -36,6 +37,11 @@ Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan 
 - Emel: [ibrahim.kadri@kusess.edu.my](mailto:ibrahim.kadri@kusess.edu.my?subject=PAJSK%20Pembantu)
 
 ## 📝 Changelog
+
+### v1.2.0 — 3 Nov 2026
+- Sokongan tab **Ekstra Kurikulum**: lajur *Jawatan Khas* dalam fail (Pengawas, AJK Kelas, PRS, J/K Pusat Media dll.) diisi ke dropdown **Perkhidmatan**.
+- Suis DITAKSIR Ekstra dimatikan bagi murid yang tiada jawatan khas.
+- Semak data dan Eksport CSV kini merangkumi Ekstra Kurikulum.
 
 ### v1.1.0 — 3 Nov 2026
 - **Semakan kemas kini automatik**: lencana NEW pada ikon, notis versi baharu dalam popup dan panel PAJSK, pautan "Semak kemas kini".

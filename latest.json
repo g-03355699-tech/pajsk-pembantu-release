@@ -1,9 +1,9 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "date": "2026-11-03",
   "notes": [
-    "Semakan kemas kini automatik — notis versi baharu dalam popup dan panel",
-    "Lencana NEW pada ikon apabila ada versi baharu"
+    "Sokongan tab Ekstra Kurikulum — Jawatan Khas diisi ke dropdown Perkhidmatan",
+    "Semak data dan Eksport CSV merangkumi Ekstra Kurikulum"
   ],
   "zip": "https://github.com/g-03355699-tech/pajsk-pembantu-release/raw/main/pajsk-pembantu.zip"
 }
