@@ -38,6 +38,9 @@ Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan 
 
 ## 📝 Changelog
 
+### v1.7.1 — 3 Nov 2026
+- Betulkan ralat **Extension context invalidated** yang muncul di `chrome://extensions` apabila extension dikemas kini atau dimuat semula (↻) semasa halaman SPPB masih terbuka. Halaman lama kini memaparkan notis kecil *"Tekan F5 untuk menyambung"*.
+
 ### v1.7.0 — 3 Nov 2026
 - **Setiap tab disimpan sebelum ke tab seterusnya.** SPPB hanya menyimpan tab yang sedang dibuka — sebelum ini isian tab lain boleh hilang. Kini: isi Kelab → Simpan → isi Badan Beruniform → Simpan → Sukan → Simpan → Ekstra → Simpan.
 - Panel murid: **💾 Isi & Simpan semua tab** dan **✎ Isi tab ini sahaja** (tanpa simpan, untuk disemak).

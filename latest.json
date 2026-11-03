@@ -1,10 +1,8 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.1",
   "date": "2026-11-03",
   "notes": [
-    "Setiap tab diisi dan disimpan sebelum ke tab seterusnya (SPPB hanya simpan tab aktif)",
-    "Butang Isi & Simpan semua tab / Isi tab ini sahaja",
-    "Jeda semakan pada setiap tab dalam isi pukal"
+    "Betulkan ralat Extension context invalidated selepas kemas kini — notis Tekan F5"
   ],
   "zip": "https://github.com/g-03355699-tech/pajsk-pembantu-release/raw/main/pajsk-pembantu.zip"
 }
