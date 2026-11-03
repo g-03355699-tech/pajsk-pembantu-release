@@ -19,7 +19,7 @@ Versi semasa: lihat [`latest.json`](latest.json). Versi lama ada dalam folder [`
 3. Tetapkan **nilai lalai** setiap komponen: Jawatan (cth. `AHLI AKTIF`), Pelibatan, Komitmen (maks. 4), Khidmat, Kehadiran.
 4. SPPB → Keputusan → PAJSK → kelas → buka seorang murid → butang **PAJSK** → **💾 Isi & Simpan semua tab** → semak setiap tab.
 5. Tetapan bahagian 3: sahkan padanan nama aktiviti (fail ↔ SPPB).
-6. Halaman Senarai Murid → **▶ Mula isi pukal**.
+6. Halaman Senarai Murid → **▶ Mula isi pukal**, atau dari halaman murid → **⏩ Isi & simpan murid ini dan seterusnya**.
 7. **🔍 Semak data** dan **⬇ Eksport CSV** pada halaman Senarai Murid.
 
 ## Kemas kini
@@ -37,6 +37,11 @@ Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan 
 - Emel: [ibrahim.kadri@kusess.edu.my](mailto:ibrahim.kadri@kusess.edu.my?subject=PAJSK%20Pembantu)
 
 ## 📝 Changelog
+
+### v1.8.0 — 3 Nov 2026
+- Butang baharu di halaman murid: **⏩ Isi & simpan murid ini dan seterusnya** — isi & simpan semua tab, tekan *Seterusnya* SPPB, ulang sehingga murid terakhir.
+- Semasa isi pukal: **⏩ Simpan & Auto (tanpa jeda)** untuk berhenti menjeda pada setiap tab, dan **⏸ Jeda untuk semak** untuk kembali menjeda.
+- Dialog SPPB **"Berjaya! Rekod telah berjaya ditambah"** ditutup secara automatik (butang OK) dan digunakan untuk mengesahkan simpanan; dialog ralat menghentikan proses.
 
 ### v1.7.1 — 3 Nov 2026
 - Betulkan ralat **Extension context invalidated** yang muncul di `chrome://extensions` apabila extension dikemas kini atau dimuat semula (↻) semasa halaman SPPB masih terbuka. Halaman lama kini memaparkan notis kecil *"Tekan F5 untuk menyambung"*.

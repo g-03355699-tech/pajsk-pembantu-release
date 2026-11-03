@@ -1,8 +1,10 @@
 {
-  "version": "1.7.1",
+  "version": "1.8.0",
   "date": "2026-11-03",
   "notes": [
-    "Betulkan ralat Extension context invalidated selepas kemas kini — notis Tekan F5"
+    "Butang ⏩ Isi & simpan murid ini dan seterusnya (guna Seterusnya SPPB)",
+    "Butang ⏩ Simpan & Auto (tanpa jeda) semasa isi pukal",
+    "Dialog Berjaya! ditutup secara automatik"
   ],
   "zip": "https://github.com/g-03355699-tech/pajsk-pembantu-release/raw/main/pajsk-pembantu.zip"
 }
