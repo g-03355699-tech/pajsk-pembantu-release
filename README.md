@@ -38,6 +38,9 @@ Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan 
 
 ## 📝 Changelog
 
+### v1.8.1 — 3 Nov 2026
+- **Betulkan:** *Isi & simpan murid ini dan seterusnya* tersekat selepas murid pertama. Apabila butang *Seterusnya* ditekan, SPPB memaparkan dialog **"Amaran — … Klik OK sekiranya anda pasti untuk berganti murid"**; extension kini menekan **OK** secara automatik (semua tab sudah disimpan sebelum itu).
+
 ### v1.8.0 — 3 Nov 2026
 - Butang baharu di halaman murid: **⏩ Isi & simpan murid ini dan seterusnya** — isi & simpan semua tab, tekan *Seterusnya* SPPB, ulang sehingga murid terakhir.
 - Semasa isi pukal: **⏩ Simpan & Auto (tanpa jeda)** untuk berhenti menjeda pada setiap tab, dan **⏸ Jeda untuk semak** untuk kembali menjeda.

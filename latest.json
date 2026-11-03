@@ -1,10 +1,8 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "date": "2026-11-03",
   "notes": [
-    "Butang ⏩ Isi & simpan murid ini dan seterusnya (guna Seterusnya SPPB)",
-    "Butang ⏩ Simpan & Auto (tanpa jeda) semasa isi pukal",
-    "Dialog Berjaya! ditutup secara automatik"
+    "Betulkan: isi automatik tersekat selepas murid pertama (dialog Amaran berganti murid kini ditekan OK)"
   ],
   "zip": "https://github.com/g-03355699-tech/pajsk-pembantu-release/raw/main/pajsk-pembantu.zip"
 }
