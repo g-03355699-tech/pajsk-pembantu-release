@@ -1,10 +1,10 @@
 {
-  "version": "1.6.0",
+  "version": "1.7.0",
   "date": "2026-11-03",
   "notes": [
-    "Perkhidmatan dipadankan dengan tepat daripada Jawatan Khas; jika tidak pasti, perlu dipetakan di Tetapan",
-    "Semakan nama belum dipetakan sebelum isi pukal",
-    "Betulkan suis DITAKSIR dan data import versi lama"
+    "Setiap tab diisi dan disimpan sebelum ke tab seterusnya (SPPB hanya simpan tab aktif)",
+    "Butang Isi & Simpan semua tab / Isi tab ini sahaja",
+    "Jeda semakan pada setiap tab dalam isi pukal"
   ],
   "zip": "https://github.com/g-03355699-tech/pajsk-pembantu-release/raw/main/pajsk-pembantu.zip"
 }

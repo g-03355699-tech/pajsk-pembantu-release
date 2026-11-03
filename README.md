@@ -17,7 +17,7 @@ Versi semasa: lihat [`latest.json`](latest.json). Versi lama ada dalam folder [`
 1. Ikon → **Import data & tetapan** → pilih fail Excel (cth. eksport *table2excel*). Murid dipadankan ikut No. KP.
 2. Pastikan fail ada lajur **Jawatan Khas** jika mahu tab Ekstra Kurikulum diisi.
 3. Tetapkan **nilai lalai** setiap komponen: Jawatan (cth. `AHLI AKTIF`), Pelibatan, Komitmen (maks. 4), Khidmat, Kehadiran.
-4. SPPB → Keputusan → PAJSK → kelas → buka seorang murid → butang **PAJSK** → **✎ Isi borang** → semak → Simpan.
+4. SPPB → Keputusan → PAJSK → kelas → buka seorang murid → butang **PAJSK** → **💾 Isi & Simpan semua tab** → semak setiap tab.
 5. Tetapan bahagian 3: sahkan padanan nama aktiviti (fail ↔ SPPB).
 6. Halaman Senarai Murid → **▶ Mula isi pukal**.
 7. **🔍 Semak data** dan **⬇ Eksport CSV** pada halaman Senarai Murid.
@@ -37,6 +37,12 @@ Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan 
 - Emel: [ibrahim.kadri@kusess.edu.my](mailto:ibrahim.kadri@kusess.edu.my?subject=PAJSK%20Pembantu)
 
 ## 📝 Changelog
+
+### v1.7.0 — 3 Nov 2026
+- **Setiap tab disimpan sebelum ke tab seterusnya.** SPPB hanya menyimpan tab yang sedang dibuka — sebelum ini isian tab lain boleh hilang. Kini: isi Kelab → Simpan → isi Badan Beruniform → Simpan → Sukan → Simpan → Ekstra → Simpan.
+- Panel murid: **💾 Isi & Simpan semua tab** dan **✎ Isi tab ini sahaja** (tanpa simpan, untuk disemak).
+- Isi pukal: pilihan jeda kini **pada setiap tab** (*Simpan & Teruskan* / *Langkau tab* / *Langkau murid*); kemajuan tab yang sudah disimpan dipaparkan dan disambung semula jika halaman dimuat semula.
+- Komponen tanpa aktiviti yang suis DITAKSIRnya dimatikan juga disimpan.
 
 ### v1.6.0 — 3 Nov 2026
 - **Perkhidmatan dipadankan dengan tepat** daripada Jawatan Khas murid (cth. *Pengawas Biasa* → *PENGAWAS/PENGAWAS PUSAT SUMBER/…\|7*, *PRS* → *…/PRS/…\|5*). Nilai lalai di Tetapan tidak lagi menggantikan Jawatan Khas.
