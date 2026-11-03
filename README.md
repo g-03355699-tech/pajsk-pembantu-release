@@ -38,6 +38,11 @@ Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan 
 
 ## 📝 Changelog
 
+### v1.4.0 — 3 Nov 2026
+- Tetapan → Ekstra Kurikulum: dropdown **Perkhidmatan** lalai dan dropdown **TIMSS dan PISA**.
+- Padanan Jawatan Khas → kategori Perkhidmatan SPPB (cth. *Pengawas Biasa* → *PENGAWAS/PENGAWAS PUSAT SUMBER/…\|7*); kategori yang tidak pasti boleh dipilih dalam bahagian 3 Tetapan.
+- Nilai lalai **Jawatan** kini dropdown untuk semua komponen. Jawatan khusus (cth. LANS KOPERAL, BRASS BAND bagi Badan Beruniform) ditambah ke senarai secara automatik selepas dropdown Jawatan SPPB dibuka sekali; pilihan *Lain-lain* untuk menaip sendiri.
+
 ### v1.3.0 — 3 Nov 2026
 - Tab **Ekstra Kurikulum** lengkap: **Anugerah Khas** (termasuk Emas/Perak/Gangsa Anugerah Remaja Perdana), **Khidmat Masyarakat**, **Program NILAM** dan **TIMSS/PISA**.
 - Tetapan → Nilai lalai kini ada tab **Ekstra Kurikulum**.

@@ -1,9 +1,10 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "date": "2026-11-03",
   "notes": [
-    "Tab Ekstra Kurikulum lengkap: Anugerah Khas, Khidmat Masyarakat, Program NILAM, TIMSS/PISA",
-    "Nilai lalai Ekstra Kurikulum dalam Tetapan"
+    "Dropdown Perkhidmatan dan TIMSS/PISA dalam tetapan Ekstra Kurikulum",
+    "Dropdown Jawatan dalam nilai lalai (termasuk jawatan Badan Beruniform)",
+    "Padanan Jawatan Khas ke kategori Perkhidmatan SPPB"
   ],
   "zip": "https://github.com/g-03355699-tech/pajsk-pembantu-release/raw/main/pajsk-pembantu.zip"
 }
