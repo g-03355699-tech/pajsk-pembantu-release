@@ -38,6 +38,13 @@ Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan 
 
 ## 📝 Changelog
 
+### v1.6.0 — 3 Nov 2026
+- **Perkhidmatan dipadankan dengan tepat** daripada Jawatan Khas murid (cth. *Pengawas Biasa* → *PENGAWAS/PENGAWAS PUSAT SUMBER/…\|7*, *PRS* → *…/PRS/…\|5*). Nilai lalai di Tetapan tidak lagi menggantikan Jawatan Khas.
+- Jika padanan **tidak pasti** (cth. *AJK Kelas/Kamar*, *J/k Pusat Media*), ruangan tidak diisi dan nama itu ditanda **⚠ Perlu dipetakan** di Tetapan → bahagian 3.
+- **Semakan sebelum isi pukal**: senarai nama yang belum dipetakan dipaparkan sebelum mula.
+- Betulkan: data yang diimport dengan versi lama kini turut membaca lajur Jawatan Khas.
+- Betulkan: suis DITAKSIR bagi komponen tanpa aktiviti kini dimatikan dengan lebih andal; jika gagal, ralat dipaparkan dan borang tidak disimpan.
+
 ### v1.5.0 — 3 Nov 2026
 - **Betulkan:** Jawatan kadang-kadang tidak diisi (terutama Badan Beruniform) kerana senarai jawatan lambat dimuatkan oleh SPPB selepas aktiviti dipilih. Extension kini menunggu dan cuba semula; jika jawatan tetap gagal, ia dikira ralat dan borang **tidak** disimpan.
 - **Jawatan sandaran** dalam nilai lalai: cth. AHLI AKTIF, jika tiada dalam senarai aktiviti itu → AHLI BIASA.

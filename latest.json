@@ -1,10 +1,10 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "date": "2026-11-03",
   "notes": [
-    "Betulkan: Jawatan tidak diisi (senarai lambat dimuatkan oleh SPPB)",
-    "Jawatan sandaran, cth. AHLI AKTIF → AHLI BIASA",
-    "Eksport / import tetapan sebagai fail .json"
+    "Perkhidmatan dipadankan dengan tepat daripada Jawatan Khas; jika tidak pasti, perlu dipetakan di Tetapan",
+    "Semakan nama belum dipetakan sebelum isi pukal",
+    "Betulkan suis DITAKSIR dan data import versi lama"
   ],
   "zip": "https://github.com/g-03355699-tech/pajsk-pembantu-release/raw/main/pajsk-pembantu.zip"
 }
