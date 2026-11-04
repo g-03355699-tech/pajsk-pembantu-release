@@ -1,10 +1,8 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "date": "2026-11-04",
   "notes": [
-    "📥 Import Slip Infomurid Kelas — rekod kokurikulum lengkap diimport dengan satu butang",
-    "SPPB diselaraskan dengan slip: unit, jawatan, pelibatan, pencapaian, kehadiran, perkhidmatan",
-    "Skor slip dipadankan dengan skor SPPB untuk memilih pilihan yang betul"
+    "Betulkan: nilai lalai Pelibatan & Pencapaian kini digunakan apabila kosong dalam slip"
   ],
   "zip": "https://github.com/g-03355699-tech/pajsk-pembantu-release/raw/main/pajsk-pembantu.zip"
 }

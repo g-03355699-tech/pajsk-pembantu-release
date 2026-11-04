@@ -41,6 +41,10 @@ Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan 
 
 ## 📝 Changelog
 
+### v2.0.1 — 4 Nov 2026
+- **Betulkan:** dengan data Slip Infomurid, Pelibatan dan Tahap Pencapaian dibiarkan kosong jika slip kosong — nilai lalai tidak digunakan. Kini **nilai lalai digunakan** bagi ruangan yang kosong dalam slip; nilai daripada slip tetap diutamakan.
+- Tetapan baharu (bahagian 4): *Data Slip Infomurid: jika Pelibatan / Pencapaian kosong dalam slip, guna nilai lalai* — nyahtanda untuk mengosongkannya mengikut slip.
+
 ### v2.0.0 — 4 Nov 2026
 - **📥 Import Slip Infomurid Kelas**: import fail `slip.xls` (rekod kokurikulum lengkap) dengan satu butang.
 - SPPB **diselaraskan dengan slip**: unit, jawatan, pelibatan, pencapaian, kehadiran dan perkhidmatan — nilai lama yang berbeza (cth. nilai lalai yang diisi sebelum ini) dibetulkan.
