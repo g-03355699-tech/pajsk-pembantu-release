@@ -41,6 +41,9 @@ Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan 
 
 ## 📝 Changelog
 
+### v2.1.1 — 4 Nov 2026
+- Data Slip Infomurid: **Kehadiran 0** dalam slip kini dianggap kehadiran penuh (50) — extension mengisi **nilai lalai Kehadiran** (cth. 12) dalam SPPB. Jika nilai lalai tidak ditetapkan, 12 digunakan.
+
 ### v2.1.0 — 4 Nov 2026
 - Butang **PAJSK** dan panel kini di **bawah kiri** skrin.
 - **Terapung**: seret butang PAJSK atau tajuk panel (⋮⋮) ke mana-mana; kedudukan diingat selepas F5. Klik dua kali tajuk panel untuk kembali ke kedudukan asal.

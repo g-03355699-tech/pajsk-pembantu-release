@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "date": "2026-11-04",
   "notes": [
-    "Butang PAJSK & panel kini di bawah kiri dan boleh diseret (terapung)"
+    "Data Slip: Kehadiran 0 dalam slip kini diisi dengan nilai lalai Kehadiran (12)"
   ],
   "zip": "https://github.com/g-03355699-tech/pajsk-pembantu-release/raw/main/pajsk-pembantu.zip"
 }
