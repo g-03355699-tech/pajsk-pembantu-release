@@ -14,6 +14,9 @@ Versi semasa: lihat [`latest.json`](latest.json). Versi lama ada dalam folder [`
 5. Jika halaman SPPB sudah terbuka, tekan **F5** supaya butang hijau **PAJSK** muncul.
 
 ## Cara guna (ringkas)
+**Disyorkan: Import Slip Infomurid Kelas.** Ikon → *Import data & tetapan* → **📥 Import Slip Infomurid Kelas** → pilih `slip.xls` (rekod kokurikulum lengkap daripada sistem sekolah). Extension akan menyelaraskan SPPB dengan slip: unit, jawatan, pelibatan, pencapaian, kehadiran dan jawatan khas (perkhidmatan). Hanya **Komitmen** dan **Khidmat Sumbangan** diambil daripada nilai lalai.
+
+Cara lain (fail table2excel / CSV):
 1. Ikon → **Import data & tetapan** → pilih fail Excel (cth. eksport *table2excel*). Murid dipadankan ikut No. KP.
 2. Pastikan fail ada lajur **Jawatan Khas** jika mahu tab Ekstra Kurikulum diisi.
 3. Tetapkan **nilai lalai** setiap komponen: Jawatan (cth. `AHLI AKTIF`), Pelibatan, Komitmen (maks. 4), Khidmat, Kehadiran.
@@ -37,6 +40,12 @@ Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan 
 - Emel: [ibrahim.kadri@kusess.edu.my](mailto:ibrahim.kadri@kusess.edu.my?subject=PAJSK%20Pembantu)
 
 ## 📝 Changelog
+
+### v2.0.0 — 4 Nov 2026
+- **📥 Import Slip Infomurid Kelas**: import fail `slip.xls` (rekod kokurikulum lengkap) dengan satu butang.
+- SPPB **diselaraskan dengan slip**: unit, jawatan, pelibatan, pencapaian, kehadiran dan perkhidmatan — nilai lama yang berbeza (cth. nilai lalai yang diisi sebelum ini) dibetulkan.
+- **Skor slip = skor SPPB**: extension memilih lajur Pelibatan (1/2/3), peringkat Pencapaian dan bilangan Kehadiran yang menghasilkan skor yang sama seperti dalam slip, berdasarkan jumlah "= N" yang dikira oleh SPPB sendiri.
+- Jawatan khas tanpa padanan nama (cth. *AJK Kelas/Kamar*, *J/k Pusat Media*) dipadankan dengan kategori Perkhidmatan yang mempunyai skor yang sama; ditanda *Ikut skor — sahkan* dalam Tetapan.
 
 ### v1.9.1 — 4 Nov 2026
 - Betulkan: panel kadang-kadang memaparkan kotak **berganda** (*Isi pukal sedang berjalan*, *Murid ini* dan *Log* dua kali). Hanya paparan; automasi sentiasa berjalan sekali sahaja.

@@ -1,8 +1,10 @@
 {
-  "version": "1.9.1",
+  "version": "2.0.0",
   "date": "2026-11-04",
   "notes": [
-    "Betulkan: panel memaparkan kotak berganda (Murid ini / Log)"
+    "📥 Import Slip Infomurid Kelas — rekod kokurikulum lengkap diimport dengan satu butang",
+    "SPPB diselaraskan dengan slip: unit, jawatan, pelibatan, pencapaian, kehadiran, perkhidmatan",
+    "Skor slip dipadankan dengan skor SPPB untuk memilih pilihan yang betul"
   ],
   "zip": "https://github.com/g-03355699-tech/pajsk-pembantu-release/raw/main/pajsk-pembantu.zip"
 }
