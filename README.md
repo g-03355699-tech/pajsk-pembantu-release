@@ -41,6 +41,10 @@ Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan 
 
 ## 📝 Changelog
 
+### v2.1.0 — 4 Nov 2026
+- Butang **PAJSK** dan panel kini di **bawah kiri** skrin.
+- **Terapung**: seret butang PAJSK atau tajuk panel (⋮⋮) ke mana-mana; kedudukan diingat selepas F5. Klik dua kali tajuk panel untuk kembali ke kedudukan asal.
+
 ### v2.0.1 — 4 Nov 2026
 - **Betulkan:** dengan data Slip Infomurid, Pelibatan dan Tahap Pencapaian dibiarkan kosong jika slip kosong — nilai lalai tidak digunakan. Kini **nilai lalai digunakan** bagi ruangan yang kosong dalam slip; nilai daripada slip tetap diutamakan.
 - Tetapan baharu (bahagian 4): *Data Slip Infomurid: jika Pelibatan / Pencapaian kosong dalam slip, guna nilai lalai* — nyahtanda untuk mengosongkannya mengikut slip.

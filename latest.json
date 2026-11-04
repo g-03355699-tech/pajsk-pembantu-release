@@ -1,8 +1,8 @@
 {
-  "version": "2.0.1",
+  "version": "2.1.0",
   "date": "2026-11-04",
   "notes": [
-    "Betulkan: nilai lalai Pelibatan & Pencapaian kini digunakan apabila kosong dalam slip"
+    "Butang PAJSK & panel kini di bawah kiri dan boleh diseret (terapung)"
   ],
   "zip": "https://github.com/g-03355699-tech/pajsk-pembantu-release/raw/main/pajsk-pembantu.zip"
 }
