@@ -38,6 +38,9 @@ Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan 
 
 ## 📝 Changelog
 
+### v1.9.1 — 4 Nov 2026
+- Betulkan: panel kadang-kadang memaparkan kotak **berganda** (*Isi pukal sedang berjalan*, *Murid ini* dan *Log* dua kali). Hanya paparan; automasi sentiasa berjalan sekali sahaja.
+
 ### v1.9.0 — 4 Nov 2026
 - Tetapan → Ekstra Kurikulum: pilihan baharu **✕ Kosongkan** untuk Perkhidmatan, Anugerah Khas, Khidmat Masyarakat, Program NILAM dan TIMSS/PISA — membuang pilihan/tanda yang sudah ada dalam SPPB.
 - *— tidak diisi (jangan ubah) —* kekal bermaksud medan itu tidak disentuh.

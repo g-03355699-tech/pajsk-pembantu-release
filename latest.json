@@ -1,8 +1,8 @@
 {
-  "version": "1.9.0",
+  "version": "1.9.1",
   "date": "2026-11-04",
   "notes": [
-    "Pilihan ✕ Kosongkan untuk Perkhidmatan, Anugerah Khas, Khidmat Masyarakat, NILAM dan TIMSS/PISA"
+    "Betulkan: panel memaparkan kotak berganda (Murid ini / Log)"
   ],
   "zip": "https://github.com/g-03355699-tech/pajsk-pembantu-release/raw/main/pajsk-pembantu.zip"
 }
