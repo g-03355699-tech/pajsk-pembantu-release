@@ -41,6 +41,10 @@ Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan 
 
 ## 📝 Changelog
 
+### v2.2.0 — 4 Nov 2026
+- Kad baharu dalam panel: **🎯 Bahagian yang diisi** → *Pilih bahagian…* — tandakan **tab** dan **medan** yang mahu diubah (cth. hanya *Kehadiran* bagi tab *Sukan*). Bahagian lain dalam SPPB dibiarkan seperti sedia ada, dan tab yang tidak dipilih tidak disimpan.
+- Terpakai untuk *Isi & Simpan semua tab*, *Isi tab ini sahaja*, *Isi & simpan murid ini dan seterusnya* dan *Isi pukal*. Tekan **Semua** untuk kembali mengisi semua bahagian.
+
 ### v2.1.1 — 4 Nov 2026
 - Data Slip Infomurid: **Kehadiran 0** dalam slip kini dianggap kehadiran penuh (50) — extension mengisi **nilai lalai Kehadiran** (cth. 12) dalam SPPB. Jika nilai lalai tidak ditetapkan, 12 digunakan.
 
