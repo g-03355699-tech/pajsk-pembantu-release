@@ -38,6 +38,10 @@ Extension menyemak versi baharu secara automatik. Apabila ada, ikon menunjukkan 
 
 ## 📝 Changelog
 
+### v1.9.0 — 4 Nov 2026
+- Tetapan → Ekstra Kurikulum: pilihan baharu **✕ Kosongkan** untuk Perkhidmatan, Anugerah Khas, Khidmat Masyarakat, Program NILAM dan TIMSS/PISA — membuang pilihan/tanda yang sudah ada dalam SPPB.
+- *— tidak diisi (jangan ubah) —* kekal bermaksud medan itu tidak disentuh.
+
 ### v1.8.3 — 3 Nov 2026
 - Tab yang murid **tiada aktiviti**: suis **DITAKSIR kini dimatikan** dan tab itu disimpan. Jika SPPB menolak simpanan tersebut, ia hanya dicatat dalam log — automasi diteruskan ke tab/murid seterusnya tanpa jeda.
 

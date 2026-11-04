@@ -1,8 +1,8 @@
 {
-  "version": "1.8.3",
-  "date": "2026-11-03",
+  "version": "1.9.0",
+  "date": "2026-11-04",
   "notes": [
-    "Tab tanpa aktiviti: suis DITAKSIR dimatikan dan disimpan; kegagalan tidak menghentikan automasi"
+    "Pilihan ✕ Kosongkan untuk Perkhidmatan, Anugerah Khas, Khidmat Masyarakat, NILAM dan TIMSS/PISA"
   ],
   "zip": "https://github.com/g-03355699-tech/pajsk-pembantu-release/raw/main/pajsk-pembantu.zip"
 }
